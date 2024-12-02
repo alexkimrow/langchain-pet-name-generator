@@ -11,7 +11,6 @@ Welcome to the LangChain Pet Generator project! This README will guide you throu
 - [Images](#images)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Configuration](#configuration)
 - [Contributing](#contributing)
 
 ## Introduction
@@ -55,10 +54,6 @@ python generate_pet.py --type dog --attributes "friendly, playful"
 ```
 
 You can customize the type of pet and its attributes using the command-line options.
-
-## Configuration
-
-You can configure the LangChain Pet Generator by editing the `config.yaml` file. This file allows you to set various parameters such as the language model to use, default pet types, and more.
 
 ## Contributing
 
