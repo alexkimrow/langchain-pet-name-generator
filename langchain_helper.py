@@ -32,4 +32,4 @@ def langchain_agent():
     print(result)
 
 if __name__ == "__main__":
-    langchain_agent()
+    pass
